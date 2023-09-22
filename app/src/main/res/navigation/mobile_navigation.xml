@@ -22,7 +22,7 @@
         android:name="com.example.taskmanager2.ui.notifications.NotificationsFragment"
         android:label="@string/title_notifications"
         tools:layout="@layout/fragment_notifications" />
-    
+
     <fragment
         android:id="@+id/profileFragment"
         android:name="com.example.taskmanager2.ProfileFragment"
@@ -34,4 +34,9 @@
         android:name="com.example.taskmanager2.ui.task.TaskFragment"
         android:label="fragment_task"
         tools:layout="@layout/fragment_task" />
+    <fragment
+        android:id="@+id/onBoardingFragment"
+        android:name="com.example.taskmanager2.ui.onboarding.OnBoardingFragment"
+        android:label="fragment_on_boarding"
+        tools:layout="@layout/fragment_on_boarding" />
 </navigation>
