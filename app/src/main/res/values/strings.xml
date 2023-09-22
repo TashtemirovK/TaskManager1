@@ -9,4 +9,5 @@
     <string name="title_profile">profile</string>
     <string name="title">Title</string>
     <string name="name">Name</string>
+    <string name="skip">\nskip\n</string>
 </resources>

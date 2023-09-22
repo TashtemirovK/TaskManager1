@@ -67,4 +67,6 @@ dependencies {
     // CircleIndicator
     implementation (" 'me.relex:circleindicator:2.1.6' ")
     implementation (" 'me.relex:circleindicator:1.3.2' ")
+
+
 }
